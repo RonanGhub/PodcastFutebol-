@@ -30,7 +30,8 @@ Este podcast foi criado com o apoio de ferramentas de inteligência artificial p
 
 ## 📚 Materiais e Referências
 
-- [Prompts usados](https://www.notion.so/Roteiro-1f190a54355c80a384ead4e7e5feb00e?pvs=4)
+- [ROTEIRO](https://www.notion.so/Roteiro-1f190a54355c80a384ead4e7e5feb00e?pvs=4)
+- [LOGO](https://www.notion.so/Logo-1f190a54355c8058b591e3d597176ad5?pvs=4)
 
 
 ---
