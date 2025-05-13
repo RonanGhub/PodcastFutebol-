@@ -2,8 +2,8 @@
 Bastidores do futebol, sem tática, só resenha.
 
 <p align="center">
-  <img 
-    src="./assets/capa.png" 
+ <img 
+  src="./assets/capa.png"
     width="200" 
     style="border-radius: 50%;" 
     alt="Logo do Podcast Boleiragem Raiz"
