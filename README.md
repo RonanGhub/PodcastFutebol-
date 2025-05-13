@@ -1,5 +1,5 @@
 # boleiragem-raiz
-Bastidores do futebol, sem tática, só resenha.
+# Bastidores do futebol, sem tática, só resenha.
 
 <p align="center">
   <img src="capa.png" width="200" style="border-radius: 50%;" alt="Logo do Podcast Boleiragem Raiz" />
@@ -28,13 +28,12 @@ Este podcast foi criado com o apoio de ferramentas de inteligência artificial p
 
 ---
 
-## 📚 Materiais e Referências
+## 📚 Prompts
 
-- [ROTEIRO](https://www.notion.so/Roteiro-1f190a54355c80a384ead4e7e5feb00e?pvs=4)
-- [LOGO](https://www.notion.so/Logo-1f190a54355c8058b591e3d597176ad5?pvs=4)
+- [Roteiro](https://www.notion.so/Roteiro-1f190a54355c80a384ead4e7e5feb00e?pvs=4)
+- [Logo](https://www.notion.so/Logo-1f190a54355c8058b591e3d597176ad5?pvs=4)
 
 
 ---
 
-⌨️ Criado com ⚽ + ❤️ + 🧠
 
