@@ -2,11 +2,7 @@
 Bastidores do futebol, sem tática, só resenha.
 
 <p align="center">
- <img src="capa.png" alt="Logo do Podcast Boleiragem Raiz" width="300" />
-    width="200" 
-    style="border-radius: 50%;" 
-    alt="Logo do Podcast Boleiragem Raiz"
-  />
+  <img src="capa.png" width="200" style="border-radius: 50%;" alt="Logo do Podcast Boleiragem Raiz" />
 </p>
 
 <h1 align="center">🎙️ Boleiragem Raiz</h1>
