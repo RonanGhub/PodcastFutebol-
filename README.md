@@ -1,6 +1,3 @@
-# boleiragem-raiz
-# Bastidores do futebol, sem tática, só resenha.
-
 <p align="center">
   <img src="capa.png" width="200" style="border-radius: 50%;" alt="Logo do Podcast Boleiragem Raiz" />
 </p>
