@@ -27,7 +27,7 @@ Este podcast foi criado com o apoio de ferramentas de inteligência artificial p
 
 ## 📚 Prompts
 
-- [Roteiro](https://www.notion.so/Roteiro-1f190a54355c80a384ead4e7e5feb00e?pvs=4)
+- [Roteiro](https://www.notion.so/CHATGPT-ROTEIRO-1f190a54355c80cf8fa8d7eeb1246e49?pvs=4)
 - [Logo](https://www.notion.so/Logo-1f190a54355c8058b591e3d597176ad5?pvs=4)
 
 
