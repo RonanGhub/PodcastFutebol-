@@ -23,13 +23,6 @@ Este podcast foi criado com o apoio de ferramentas de inteligência artificial p
 - 🎨 **Leonardo AI** — Gerou a imagem de perfil com base em um prompt criativo.
 - 🗣️ **ElevenLabs** — Transformou o roteiro em uma narração com voz natural.
 
----
-
-## 📚 Prompts
-
-- [Roteiro](https://www.notion.so/CHATGPT-ROTEIRO-1f190a54355c80cf8fa8d7eeb1246e49?pvs=4)
-- [Logo](https://www.notion.so/Logo-1f190a54355c8058b591e3d597176ad5?pvs=4)
-
 ### By: Ronan
 
 
